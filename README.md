@@ -1,5 +1,5 @@
 <h1 align="center">Airbnb Kelompok 2</h1>
-<h3 align="center">Link Deploy : https://airbnb-achsmboh.vercel.app/</h3>
+<h3 align="center">Link Deploy : https://airbnb-kelompok2.netlify.app/</h3>
 
 ## About Project
 
