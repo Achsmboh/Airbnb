@@ -1,5 +1,6 @@
 <h1 align="center">Airbnb Kelompok 2</h1>
 <h3 align="center">Link Deploy : https://airbnb-kelompok2.netlify.app/</h3>
+<h3 align="center">Link Video Show Case : https://youtube.com/watch?v=5IDB1b6yGV4&si=EnSIkaIECMiOmarE</h3>
 
 ## About Project
 
@@ -26,8 +27,6 @@ Airbnb dimulai pada tahun 2008 saat dua desainer yang memiliki tempat menerima t
 * react-date-range
 * Tw-elements
 
-### The Showcase Of Product
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5IDB1b6yGV4?start=63" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
